@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá 👋, eu sou Mateus ^-^
 
-<!--
-**mateuss-silva/mateuss-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuss-silva&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuss-silva&langs_count=3&show_icons=true&theme=radical)](https://github.com/mateuss-silva/github-readme-stats)
+ 
+## Spotify
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mateuss_gt&count=5&width=500unique=true)
+
+
+
+## Contato
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mateus-silva-a6030b160/)
