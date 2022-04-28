@@ -7,12 +7,6 @@
 ## Languages
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuss-silva&langs_count=3&show_icons=true&theme=radical)](https://github.com/mateuss-silva/github-readme-stats)
- 
-## Spotify
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=mateuss_gt&count=5&width=500unique=true)
-
-
 
 ## Contato
 
