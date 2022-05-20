@@ -6,7 +6,7 @@
 
 ## Languages
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuss-silva&langs_count=3&show_icons=true&theme=radical)](https://github.com/mateuss-silva/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuss-silva&langs_count=3&show_icons=true&theme=radical&hide=javascript,java)](https://github.com/mateuss-silva/github-readme-stats)
 
 ## Contato
 
