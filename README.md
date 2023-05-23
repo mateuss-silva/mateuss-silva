@@ -1,4 +1,4 @@
-# Olá 👋, eu sou Mateus ^-^
+# Olá 👋
 
 ## GitHub Stats
 
