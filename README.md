@@ -4,7 +4,7 @@ Bem vindos ao meu cantinho.
 
 ## About me [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/mateus-silva-a6030b160/)
 
-Me chamo Mateus e não, não foi o Chat GPT quem escreveu isso. Sempre tive uma paixão pelo conhecimento em si e vaguei por diversas stacks, mas atualmente minha paixão é o Dart com aquela pitada de Flutter. Comecei estudando .NET com o C#, atuei por mais de um ano em conjunto com frameworks Javascript como Vue, React e React Native. Vira e mexe excluo diversos repositórios de projetos que fiz durante o tempo porque julgo não refletirem mais o status quo. 
+Me chamo Mateus e não, não foi o Chat GPT quem escreveu isso. Sempre tive uma paixão pelo conhecimento em si e vaguei por diversas stacks, mas atualmente meu fascínio é o Dart com aquela pitada de Flutter. Comecei estudando .NET com o C#, atuei por mais de um ano em conjunto com frameworks Javascript como Vue, React e React Native. Vira e mexe excluo diversos repositórios de projetos que fiz durante o tempo porque julgo não refletirem mais o status quo. 
 
 Gosto de ler bastante e diversos tópicos me interessam, acredito que todo conhecimento é valido e que um dia ele vai te ajudar em algum momento por mais insignificante que seja.
 
