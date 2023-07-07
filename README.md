@@ -18,6 +18,7 @@ Garanto que não sei tudo ou até mesmo nada, mas que eu saberei assim que soube
 ## Últimos livros
  - Arquitetura Limpa
  - Código Limpo
+ - As armas da persuasão
  - Inuyasha
  - Shaman King
 
