@@ -8,7 +8,7 @@ Me chamo Mateus e não, não foi o Chat GPT quem escreveu isso. Sempre tive uma 
 
 Gosto de ler e diversos tópicos me interessam, acredito que todo conhecimento é valido e que um dia vai te ajudar em algum momento, por mais mínimo que seja.
 
-Tive meu primeiro contato com programação aos 17 anos (um pouco tarde pra ser um prodígio). Formado em Computação e atualmente tentando entender um pouco sobre Gestão de Produto. Tive meu primeiro contato com .NET em 2018 e com o Flutter em 2019 e estou até hoje aperfeiçoando. Desenvolvi diversas aplicações do zero, em andamento, migração, integração, etc.
+Tive meu primeiro contato com programação aos 17 anos (um pouco tarde pra ser um prodígio). Formado em Computação e atualmente tentando entender um pouco sobre Gestão de Produto. Tive meu primeiro contato com .NET em 2018 e com o Flutter em 2019 e estou até hoje aperfeiçoando. Já participei no desenvolvimento de diversas aplicações do zero, em andamento, migração, integração, etc.
 
 Garanto que não sei tudo ou até mesmo nada, mas que eu saberei assim que souber o que tenho que saber.
 
