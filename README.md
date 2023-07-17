@@ -16,10 +16,9 @@ Garanto que não sei tudo ou até mesmo nada, mas que eu saberei assim que soube
  - Refatoração: Aperfeiçoando o Design de Códigos Existentes
  - Como fazer amigos e influenciar pessoas
 ## Últimos livros
- - Arquitetura Limpa
- - Código Limpo
+ - Arquitetura Limpa x2
+ - Código Limpo x2
  - As armas da persuasão
- - Inuyasha
  - Shaman King
 
 ## Alguns status
