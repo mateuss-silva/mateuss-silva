@@ -14,12 +14,9 @@ Garanto que não sei tudo ou até mesmo nada, mas que eu saberei assim que soube
 
 ## O que estou lendo
  - Refatoração: Aperfeiçoando o Design de Códigos Existentes
- - Como fazer amigos e influenciar pessoas
-## Últimos livros
  - Arquitetura Limpa x2
  - Código Limpo x2
- - As armas da persuasão
- - Shaman King
+ - Domain Driven Design
 
 ## Alguns status
 <div>
