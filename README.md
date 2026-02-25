@@ -29,7 +29,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco principal em **Desenvol
 
 Disponibilizo aqui alguns dos meus principais projetos que demonstram minha expertise em diferentes áreas:
 
-- **[ai_assistant](https://github.com/mateuss-silva/ai_assistant)**: Assistente inteligente baseado em IA, explorando integrações modernas e LLMs.
+- **[Guardian Invest](https://github.com/mateuss-silva/fintech_session_guard)**: Guardian Invest é um aplicativo fintech de trading seguro feito para promover segurança.
+- **[AI Financial Assistant](https://github.com/mateuss-silva/ai_assistant)**: Assistente inteligente baseado em IA, explorando integrações modernas e LLMs.
 - **[o-que-assistir](https://github.com/mateuss-silva/o-que-assistir)**: Aplicativo completo de catálogo e avaliações de filmes e séries.
 - **[fake-store](https://github.com/mateuss-silva/fake-store)**: Implementação de uma loja virtual consumindo APIs REST, com foco em UI/UX e gerenciamento de estado.
 - **[catalogo-receitas](https://github.com/mateuss-silva/catalogo-receitas)**: Aplicativo interativo de receitas, demonstrando organização de código e persistência.
