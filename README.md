@@ -1,12 +1,6 @@
 # 👋 Olá, eu sou o Mateus Silva!
 
-### 🚀 Sobre Mim
-
-Sou um desenvolvedor apaixonado por tecnologia, com foco principal em **Desenvolvimento Mobile** e **Back-end**. Meu objetivo é sempre aprimorar minhas stacks e entregar soluções de alta qualidade e escaláveis.
-
-- 🎓 Graduado em Ciência da Computação pela **UFS**.
 - 📱 Especialista em **Flutter**, com sólida experiência em **iOS (Swift)** , **Android (Kotlin)** e **Web**.
-- 💻 Experiência em desenvolvimento back-end utilizando **.NET / C#**.
 - 🛠️ Sempre explorando novas ferramentas, arquiteturas e padrões de qualidade e segurança.
 
 ---
